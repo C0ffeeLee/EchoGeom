@@ -4,5 +4,4 @@ Official repository for **EchoGeom**.
 
 🚧 **Code release in progress**
 
-We are preparing selected components of EchoGeom for public release.
-Further updates will be posted here.
+Code and further updates will be made available here. Stay tuned!

@@ -1,0 +1,31 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+.venv-*/
+
+# External data, generated output, and logs
+data/
+results/
+outputs/
+*.log
+
+# Local weights are downloaded separately
+weights/
+*.pt
+*.pth
+*.ckpt
+
+# Internal preparation and verification records
+MANIFEST.json
+reference_metrics.json
+verification.json
+environment_verification.json
+configuration_verification.json
+
+# Local settings and editor/OS files
+.env
+.env.*
+.DS_Store

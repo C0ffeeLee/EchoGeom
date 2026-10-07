@@ -1,0 +1,8 @@
+# Install the CPU or CUDA PyTorch build first; see README.md.
+torch==2.4.1
+torchaudio==2.4.1
+torchvision==0.19.1
+numpy==1.24.4
+pandas==2.0.3
+soundfile==0.12.1
+PyYAML==6.0.2
